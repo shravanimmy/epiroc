@@ -1,4 +1,4 @@
-# epiroc
+# Epiroc
 
 Vehicle Dashboard
 The Vehicle Dashboard is an interactive platform designed for monitoring and managing vehicle data efficiently. Follow the instructions below to set up and access the dashboard.
