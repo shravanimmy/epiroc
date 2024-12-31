@@ -1,16 +1,16 @@
 # Epiroc
 
-Vehicle Dashboard
+# Vehicle Dashboard
 The Vehicle Dashboard is an interactive platform designed for monitoring and managing vehicle data efficiently. Follow the instructions below to set up and access the dashboard.
 
 
 Link: https://dashboard.zoservers.in/
 
-Features
+# Features
 Real-Time Monitoring: Track vehicle data in real time.
 User-Friendly Design: Simplified interface for seamless interaction
 
-Installation Guide
+# Installation Guide
 
 Step 1: Clone the Repository
 Download the repository to your local machine or server:
@@ -31,17 +31,19 @@ http://localhost/dashboard
 ![image](https://github.com/user-attachments/assets/3e52328e-2645-43db-b960-f2447eef7756)
 
 
-Admin Dashboard 
+# Admin Dashboard 
 The Admin Dashboard  for just displaying data from database
 
 Link : https://admin.zoservers.in/
 
 ![image](https://github.com/user-attachments/assets/b137039d-d16c-42df-aa51-c9781a25eaa4)
 
-Database and Backend
+# Database and Backend
+
 This project uses Firebase for real-time database and authentication, hosted on Google Cloud for scalability and performan
 
-Device Compatibility
+# Device Compatibility
+
 This website is optimized for use on laptops and desktop monitors. It is not currently responsive for mobile devices. For the best experience:
 
 Use a device with a screen width of 1400px or greater.
