@@ -38,7 +38,8 @@ Link : https://admin.zoservers.in/
 
 ![image](https://github.com/user-attachments/assets/b137039d-d16c-42df-aa51-c9781a25eaa4)
 
-
+Database and Backend
+This project uses Firebase for real-time database and authentication, hosted on Google Cloud for scalability and performan
 
 Device Compatibility
 This website is optimized for use on laptops and desktop monitors. It is not currently responsive for mobile devices. For the best experience:
